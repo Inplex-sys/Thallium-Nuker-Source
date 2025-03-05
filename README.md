@@ -1,7 +1,9 @@
 # Thallium Nuker (A skidy project made for skids)
-
 **Thallium** is the fastest nuker on Discord, written in Python, that's why i decided to release the source code for free, because
 it's non-sense to publish a _.exe_ file in an open-source right ?
+
+
+![57591552-0395-464c-8c20-5e306beedddf](https://github.com/user-attachments/assets/4931fdb4-ca55-40b9-b842-d5ed2353eb6b)
 
 ## Installation
 
